@@ -28,5 +28,6 @@ STEP 2
   -Outcomes
   
   link 👉
-[online_learning_platfrom.pdf](https://github.com/chethanv202004/online-learning-platfrom-dbms/files/12848692/online_learning_platfrom.pdf)
+[dbms-online-learning-platfrom.pdf](https://github.com/chethanv202004/online-learning-platfrom-dbms/files/12848724/dbms-online-learning-platfrom.pdf)
+
 
